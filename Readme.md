@@ -1,1 +1,4 @@
-Basic JavaScript templates
+Basic JavaScript
+CSS
+HTML
+Working with APIs
